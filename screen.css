@@ -1,0 +1,21 @@
+body {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 10pt;
+	color: #222222;
+	background-color: #FFFFFF; /*#F0EFDA;*/
+}
+
+a:link, :visited { }
+
+a:hover { }
+
+td#store { padding-left: 5px; }
+td#form { padding-left: 5px; padding-top: 5px; }
+
+div#content { 
+	background-color: #E8E8E8; 
+	border: solid 1px #C0C0C0; 
+	margin: 10px 0 0 0; padding-bottom: 2px;
+}
+
+div#test { background:#E8E8E8 url('images/loadinga.gif') 50% 50% no-repeat; }
